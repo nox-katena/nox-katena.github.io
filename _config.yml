@@ -269,6 +269,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # <https://zenozeng.github.io/fonts.css/>，跨平台中文字体解决方案
               <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/monaspace-font@0.0.2/xenon.min.css" />
               <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cn-fontsource-yat-xenon-serif-mono-regular/font.min.css" />
+              <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap" />
               <style>
                 .sidebar, html, h1, h2, h3, h4, h5, h6, code, pre {
                   font-family: "Pretendard", "Monaspace Xenon", "Yat-Xenon-Serif-Mono", "Courier New", "Courier", "Noto Serif CJK SC", "Source Han Serif SC", "Source Han Serif CN", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, monospace;
