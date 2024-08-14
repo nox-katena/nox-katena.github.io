@@ -231,12 +231,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://raw.githubusercontent.com/nox-katena/nox-katena.github.io/main/_images/seeleavatar.png?s=320"
+                href="https://raw.githubusercontent.com/nox-katena/nox-katena.github.io/gh-pages/_images/seeleavatar.png?s=320"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://raw.githubusercontent.com/nox-katena/nox-katena.github.io/main/_images/seeleavatar.png?s=32"
+                href="https://raw.githubusercontent.com/nox-katena/nox-katena.github.io/gh-pages/_images/seeleavatar.png?s=32"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
@@ -493,7 +493,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         #         var paypal = "https://buymeacoffee.com/starchasmnyx";
         #         var multilingual = false;
         #         var branding = false;
-        #         var gravatar_url = "https://raw.githubusercontent.com/nox-katena/nox-katena.github.io/main/_images/seeleavatar.png?s=32";
+        #         var gravatar_url = "https://raw.githubusercontent.com/nox-katena/nox-katena.github.io/gh-pages/_images/seeleavatar.png?s=32";
         #       </script>
         #     - |
         #       <meta
