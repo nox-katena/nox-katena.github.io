@@ -1,4 +1,4 @@
-## seonah@nox.katena
+## seonah's blog
 
 I record problems that I found interesting.
 
